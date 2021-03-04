@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NgRx"
+    }
+  },
+  "defaultProject": "NgRx",
+  "cli": {
+    "analytics": "e86219a3-dbab-4d10-bcb4-5bda075306ee"
+  }
 }
